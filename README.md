@@ -1,2 +1,4 @@
-# leraning_git
-1 May repo_my first repo
+My firs repo_
+
+
+clicla clu, clo cla clucli clicla clu
